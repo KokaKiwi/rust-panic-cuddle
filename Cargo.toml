@@ -1,0 +1,7 @@
+[package]
+name = "panic-cuddle"
+version = "0.1.0"
+authors = ["KokaKiwi <kokakiwi+git@kokakiwi.net>"]
+description = "Gently cuddle before panicking"
+
+[dependencies]

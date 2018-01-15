@@ -1,0 +1,8 @@
+# Rust stuff
+/target/
+**/*.rs.bk
+Cargo.lock
+
+# Misc stuff
+.*
+!.gitignore
